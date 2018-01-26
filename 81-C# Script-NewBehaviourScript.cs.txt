@@ -1,0 +1,47 @@
+//Gaston Lobo y su aventura en la Global Jam UTN-Medrano!!
+//
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour {
+
+	#region Variables
+	
+
+	#endregion
+	
+
+	#region MonoBehaviour
+	void Start ()
+	{
+		#NOTRIM#
+	}
+	
+	// Update: Input, Translate / Rotation (NON-PHYSICS)
+	void Update () 
+	{
+		#NOTRIM#
+	}
+	// FixedUpdate: Physics
+	void FixedUpdate () 
+	{
+		#NOTRIM#
+	}
+	// LateUpdate: CameraMovement / Animation
+	void LateUpdate () 
+	{
+		#NOTRIM#
+	}
+	#endregion
+
+	#region Interface
+	
+	#endregion
+	
+	#region Implementacion
+	
+	#endregion
+	
+}
